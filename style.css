@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #2a2a72;
-  color: #fff;
+  background-color: #24292f;
+  color: #000;
   font-family: 'Poppins', sans-serif;
   display: flex;
   flex-direction: column;
@@ -25,10 +25,10 @@ body {
 .user-form input {
   width: 100%;
   display: block;
-  background-color: #4c2885;
+  background-color: #ffffffb3;
   border: none;
   border-radius: 10px;
-  color: #fff;
+  color: #000;
   padding: 1rem;
   margin-bottom: 2rem;
   font-family: inherit;
@@ -38,7 +38,7 @@ body {
 }
 
 .user-form input::placeholder {
-  color: #bbb;
+  color: #000;
 }
 
 .user-form input:focus {
