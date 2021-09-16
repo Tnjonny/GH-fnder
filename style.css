@@ -101,6 +101,11 @@ body {
   display: inline-block;
 }
 
+#font {
+  font-size: 220px;
+  padding-bottom: 5%;
+}
+
 @media (max-width: 500px) {
   .card {
     flex-direction: column;
